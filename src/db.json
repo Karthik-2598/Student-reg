@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "karthik",
+      "class": "10",
+      "address": "gandhinagar",
+      "email": "ksk25@gmail.com",
+      "city": "Hyderabad",
+      "password": "Karthik5"
+    },
+    {
+      "id": 2,
+      "name": "karthik",
+      "class": "1",
+      "address": "gandhinagar ",
+      "email": "karthik",
+      "city": "hyderabad",
+      "password": "ksk25"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
